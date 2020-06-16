@@ -1,6 +1,6 @@
  
-a =  "11011" //17
-b = "101011" //7
+a =  "11011" //first number
+b = "101011" //secondary number
 
 function addBinary(first, second){
 return (parseInt(first, 2) + parseInt(second, 2)).toString(2)
